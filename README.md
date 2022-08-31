@@ -12,7 +12,7 @@ Implementation according to Comaniciu, D., etc paper:
  
  ### Compile and Run
  This project can be compiled smoothly on Linux and MacOS with GCC 4.0 or higher. The 'libjpeg' is required. The user can find the libjpeg from my another project "lip-vireo".
- Just compile the "jpeg" library and copy "libjpeg.a" to folder "libs/". Then run following commands.
+ Just compile the "jpeg" library and copy "libjpeg.a" to folder "lib/". Then run following commands.
  
  ```
  cd mean-shift
