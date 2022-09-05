@@ -19,6 +19,9 @@ Implementation according to Comaniciu, D., etc paper:
  make release
  ```
  
+ ### History
+This code was first implemented by Wan-Lei zhao during his gradudate study (2004-2005). There were many discussions about this algorithm with my junior and good friend Yang Zhao at that time. Wan-Lei Zhao keep these codes with me all the way, and share it to you now. Wish you can have similar funs as him.
+ 
  ### Copyrights
  Copyright (C) 2004 Wan-Lei Zhao. All Rights Reserved.
 
