@@ -7,7 +7,7 @@ Implementation according to Comaniciu, D., etc paper:
  "Mean Shift: A Robust Approach Toward Feature Space Analysis".
  in IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE) 24 (5): 603–619
 
- This is part of my work during my graduate study in Yunnan University as an MPhil, China from 2003 to 2004.
+ This is part of my work during Wan-Lei's graduate study in Yunnan University, China from 2003 to 2004.
  
  
  ### Compile and Run
@@ -20,7 +20,7 @@ Implementation according to Comaniciu, D., etc paper:
  ```
  
  ### History
-This project was first implemented by Wan-Lei zhao during his gradudate study (2004-2005). There were many discussions about this algorithm with my junior and good friend Yang Zhao at that time. Wan-Lei Zhao keeps these codes with him all the way, and share them joyfully to you now. Wish you can have similar funs as him.
+This project was first implemented by Wan-Lei Zhao during his gradudate study (2004-2005). There were many discussions about this algorithm with my junior and good friend Yang Zhao at that time. Wan-Lei Zhao keeps these codes with him all the way, and share them joyfully to you now. Wish you can have similar funs as him.
  
  ### Copyrights
  Copyright (C) 2004 Wan-Lei Zhao. All Rights Reserved.
